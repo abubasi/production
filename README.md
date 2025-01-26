@@ -12,3 +12,8 @@ MAILTRAP_TOKEN=72e5a58e22ec3ca1052c0f4b7c9fba33
 MAILTRAP_ENDPOINT=https://send.api.mailtrap.io/
 
 CLIENT_URL= http://localhost:5173
+
+
+abubasi2005@outlook.com
+
+12345678
