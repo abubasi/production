@@ -1,0 +1,14 @@
+# //qGvremD53lR06K9i
+
+MONGO_URI = mongodb+srv://abubasi:qGvremD53lR06K9i@cluster0.8z0yw.mongodb.net/auth_db?retryWrites=true&w=majority&appName=Cluster0
+
+PORT=5000
+
+JWT_SECRET = myscretkey
+
+NODE_ENV=development
+
+MAILTRAP_TOKEN=72e5a58e22ec3ca1052c0f4b7c9fba33
+MAILTRAP_ENDPOINT=https://send.api.mailtrap.io/
+
+CLIENT_URL= http://localhost:5173
